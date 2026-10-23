@@ -1,0 +1,29 @@
+name: Update wallpaper catalogue
+on:
+  push:
+    branches: [main]
+    paths: ['photos/**', 'scripts/update_photos.py', '.github/workflows/photos.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: wallpaper-catalogue
+  cancel-in-progress: false
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python scripts/update_photos.py
+      - name: Save catalogue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos/index.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update wallpaper catalogue"
+            git push
+          fi
