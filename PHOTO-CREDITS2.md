@@ -1,0 +1,44 @@
+# المجموعة 2 — صور مرفقة من المستخدم
+
+الملفات مقدمة من مالك المشروع في Photo 2.zip. حُوّلت الصور إلى 1920×1080 مع اقتصاص مركزي دون تمديد أبعادها. حفظت مطابقة الأسماء الأصلية أدناه؛ الأسماء العربية حُولت إلى أسماء ملفات إنجليزية آمنة لروابط التنزيل. لم يُفترض ترخيص جديد للصور.
+
+- `344-14.jpg` — 344-14.jpg
+- `347-29.jpg` — 347-29.jpg
+- `349-36.jpg` — 349-36.jpg
+- `480-10.jpg` — 480-10.jpg
+- `491-24.jpg` — 491-24.jpg
+- `496-08.jpg` — 496-08.jpg
+- `590-42.jpg` — 590-42.jpg
+- `615-68.jpg` — 615-68.jpg
+- `616-73.jpg` — 616-73.jpg
+- `626-85.jpg` — 626-85.jpg
+- `629-87.jpg` — 629-87.jpg
+- `713-2.jpg` — 713-2.jpg
+- `717-5.jpg` — 717-5.jpg
+- `720-10.jpg` — 720-10.jpg
+- `721-6.jpg` — 721-6.jpg
+- `722-3.jpg` — 722-3.jpg
+- `729-33.jpg` — 729-33.jpg
+- `807-27.jpg` — 807-27.jpg
+- `818-22.jpg` — 818-22.jpg
+- `845-12.jpg` — 845-12.jpg
+- `866-8.jpg` — 866-8.jpg
+- `879-22.jpg` — 879-22.jpg
+- `880-23.jpg` — 880-23.jpg
+- `abdullah-arif-Dxi6KbpvUgA-unsplash.jpg` — abdullah-arif-Dxi6KbpvUgA-unsplash.jpg
+- `ali-arif-soydas-uwzPks8CE3k-unsplash.jpg` — ali-arif-soydas-uwzPks8CE3k-unsplash.jpg
+- `alim-_xdnYkEZkF0-unsplash.jpg` — alim-_xdnYkEZkF0-unsplash.jpg
+- `david-rodrigo-kZ1zThg6G40-unsplash.jpg` — david-rodrigo-kZ1zThg6G40-unsplash.jpg
+- `dmitriy-k-Ge0XafO70As-unsplash.jpg` — dmitriy-k-Ge0XafO70As-unsplash.jpg
+- `imad-alassiry-Vgf_yv3OBsA-unsplash.jpg` — imad-alassiry-Vgf_yv3OBsA-unsplash.jpg
+- `mahdi-b7gjIMzLJZc-unsplash.jpg` — mahdi-b7gjIMzLJZc-unsplash.jpg
+- `mhrezaa-nifbOe72vBA-unsplash.jpg` — mhrezaa-nifbOe72vBA-unsplash.jpg
+- `mhrezaa-nWdmDVcW9Vs-unsplash.jpg` — mhrezaa-nWdmDVcW9Vs-unsplash.jpg
+- `mhrezaa-pEzz_09eXm8-unsplash.jpg` — mhrezaa-pEzz_09eXm8-unsplash.jpg
+- `mhrezaa-uIjjhRylOQI-unsplash.jpg` — mhrezaa-uIjjhRylOQI-unsplash.jpg
+- `mhrezaa-v3X6VrolLqc-unsplash.jpg` — mhrezaa-v3X6VrolLqc-unsplash.jpg
+- `mhrezaa-Ws_mFe6VxHA-unsplash.jpg` — mhrezaa-Ws_mFe6VxHA-unsplash.jpg
+- `moslem-daneshzadeh-T2AoiBQ-kWA-unsplash.jpg` — moslem-daneshzadeh-T2AoiBQ-kWA-unsplash.jpg
+- `reza-ataiy-a_1f6P7wy7s-unsplash.jpg` — reza-ataiy-a_1f6P7wy7s-unsplash.jpg
+- `simon-infanger-ECctP9oPtio-unsplash.jpg` — simon-infanger-ECctP9oPtio-unsplash.jpg
+- `group2-ec283ed509cc.jpg` — كربلاء_المقدسة_بين_الحرمين.jpg
