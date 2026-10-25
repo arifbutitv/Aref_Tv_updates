@@ -59,3 +59,7 @@ From [Unsplash](https://unsplash.com), under the [Unsplash License](https://unsp
 | `photos/w-yuRFSkbVw.jpg` | NEOM | [unsplash](https://unsplash.com/photos/a-man-in-a-red-shirt-is-looking-at-the-desert-w-yuRFSkbVw) |
 | `photos/efzvMAIpfWY.jpg` | NEOM | [unsplash](https://unsplash.com/photos/a-couple-of-people-that-are-standing-in-the-dirt-efzvMAIpfWY) |
 | `photos/_Fmibx42BVU.jpg` | YUNUS A KHALIFAH | [unsplash](https://unsplash.com/photos/panoramic-photography-of-desert-during-daytime-_Fmibx42BVU) |
+
+## صور Photo.rar المرفقة — 25 أكتوبر 2026
+
+أضيفت 32 صورة فريدة إلى المجموعة الطبيعية من الأرشيف الذي أرفقه صاحب المشروع. أسماء الملفات الأصلية والمكررة موثقة في [سجل الاستيراد](PHOTO-IMPORT-2026-10-25.json). لم تُحدّد أسماء المصورين في الأرشيف؛ لا تُنسب هذه الصور إلى مصوري Unsplash المذكورين أعلاه. بقيت الصور الـ46 السابقة واعتماداتها.

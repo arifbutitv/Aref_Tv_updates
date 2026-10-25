@@ -1,0 +1,342 @@
+{
+  "archive": "Photo.rar",
+  "original_count": 35,
+  "added_count": 32,
+  "images": [
+    {
+      "original": "ChromeCast (1).jpg",
+      "file": "chromecast-20261025-001.jpg",
+      "source_size": [
+        2048,
+        1188
+      ],
+      "bytes": 264728,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (10).jpg",
+      "file": "chromecast-20261025-002.jpg",
+      "source_size": [
+        2048,
+        1433
+      ],
+      "bytes": 490006,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (15).jpg",
+      "file": "chromecast-20261025-003.jpg",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "bytes": 361858,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (19).jpg",
+      "file": "chromecast-20261025-004.jpg",
+      "source_size": [
+        2048,
+        1413
+      ],
+      "bytes": 285341,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (20).jpg",
+      "file": "chromecast-20261025-005.jpg",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "bytes": 233438,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (22).jpg",
+      "file": "chromecast-20261025-006.jpg",
+      "source_size": [
+        1920,
+        1200
+      ],
+      "bytes": 265093,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (24).jpg",
+      "file": "chromecast-20261025-007.jpg",
+      "source_size": [
+        1618,
+        1080
+      ],
+      "bytes": 294130,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (25).jpg",
+      "file": "chromecast-20261025-008.jpg",
+      "source_size": [
+        2048,
+        1213
+      ],
+      "bytes": 239262,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (26).jpg",
+      "file": "chromecast-20261025-009.jpg",
+      "source_size": [
+        2560,
+        1605
+      ],
+      "bytes": 324958,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (27).jpg",
+      "file": "chromecast-20261025-010.jpg",
+      "source_size": [
+        2048,
+        1312
+      ],
+      "bytes": 329083,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (30).jpg",
+      "file": "chromecast-20261025-001.jpg",
+      "duplicate": true
+    },
+    {
+      "original": "ChromeCast (32).jpg",
+      "file": "chromecast-20261025-011.jpg",
+      "source_size": [
+        2048,
+        1365
+      ],
+      "bytes": 223910,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (34).jpg",
+      "file": "chromecast-20261025-012.jpg",
+      "source_size": [
+        2560,
+        1707
+      ],
+      "bytes": 429863,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (36).jpg",
+      "file": "chromecast-20261025-013.jpg",
+      "source_size": [
+        1400,
+        1125
+      ],
+      "bytes": 237020,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (37).jpg",
+      "file": "chromecast-20261025-014.jpg",
+      "source_size": [
+        1600,
+        1067
+      ],
+      "bytes": 316838,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (4).jpg",
+      "file": "chromecast-20261025-015.jpg",
+      "source_size": [
+        2000,
+        1236
+      ],
+      "bytes": 250506,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (41).jpg",
+      "file": "chromecast-20261025-007.jpg",
+      "duplicate": true
+    },
+    {
+      "original": "ChromeCast (43).jpg",
+      "file": "chromecast-20261025-016.jpg",
+      "source_size": [
+        2048,
+        1360
+      ],
+      "bytes": 362706,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (45).jpg",
+      "file": "chromecast-20261025-017.jpg",
+      "source_size": [
+        2048,
+        1365
+      ],
+      "bytes": 439380,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (46).jpg",
+      "file": "chromecast-20261025-008.jpg",
+      "duplicate": true
+    },
+    {
+      "original": "ChromeCast (47).jpg",
+      "file": "chromecast-20261025-018.jpg",
+      "source_size": [
+        2048,
+        1254
+      ],
+      "bytes": 367816,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (48).jpg",
+      "file": "chromecast-20261025-019.jpg",
+      "source_size": [
+        2560,
+        1855
+      ],
+      "bytes": 435704,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (50).jpg",
+      "file": "chromecast-20261025-020.jpg",
+      "source_size": [
+        1738,
+        1080
+      ],
+      "bytes": 135118,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (51).jpg",
+      "file": "chromecast-20261025-021.jpg",
+      "source_size": [
+        2560,
+        1447
+      ],
+      "bytes": 294389,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (52).jpg",
+      "file": "chromecast-20261025-022.jpg",
+      "source_size": [
+        2560,
+        1879
+      ],
+      "bytes": 527038,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (7).jpg",
+      "file": "chromecast-20261025-023.jpg",
+      "source_size": [
+        2048,
+        1365
+      ],
+      "bytes": 249400,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (8).jpg",
+      "file": "chromecast-20261025-024.jpg",
+      "source_size": [
+        2560,
+        1707
+      ],
+      "bytes": 302657,
+      "quality": 88
+    },
+    {
+      "original": "ChromeCast (9).jpg",
+      "file": "chromecast-20261025-025.jpg",
+      "source_size": [
+        2048,
+        1371
+      ],
+      "bytes": 262790,
+      "quality": 88
+    },
+    {
+      "original": "ساحل كرباباد-2.jpg",
+      "file": "chromecast-20261025-026.jpg",
+      "source_size": [
+        4288,
+        2848
+      ],
+      "bytes": 270543,
+      "quality": 88
+    },
+    {
+      "original": "ساحل كرباباد-3.jpg",
+      "file": "chromecast-20261025-027.jpg",
+      "source_size": [
+        3132,
+        1806
+      ],
+      "bytes": 356528,
+      "quality": 88
+    },
+    {
+      "original": "ساحل كرباباد.jpg",
+      "file": "chromecast-20261025-028.jpg",
+      "source_size": [
+        4288,
+        2848
+      ],
+      "bytes": 469141,
+      "quality": 88
+    },
+    {
+      "original": "عناdasء العمل-ساحل سترة.jpg",
+      "file": "chromecast-20261025-029.jpg",
+      "source_size": [
+        3122,
+        2415
+      ],
+      "bytes": 377934,
+      "quality": 88
+    },
+    {
+      "original": "عناء3 العمل -2 ساحل سترة.jpg",
+      "file": "chromecast-20261025-030.jpg",
+      "source_size": [
+        3136,
+        1792
+      ],
+      "bytes": 234294,
+      "quality": 88
+    },
+    {
+      "original": "غروب كرباباد.JPG",
+      "file": "chromecast-20261025-031.jpg",
+      "source_size": [
+        4288,
+        2848
+      ],
+      "bytes": 344728,
+      "quality": 88
+    },
+    {
+      "original": "ويبقى العشق بين مد وجزر - كرباباد.jpg",
+      "file": "chromecast-20261025-032.jpg",
+      "source_size": [
+        3348,
+        2232
+      ],
+      "bytes": 454173,
+      "quality": 88
+    }
+  ]
+}
