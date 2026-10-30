@@ -1,20 +1,20 @@
 # المجموعة 2 — صور مرفقة من المستخدم
 
-المصدر: Photo 2.zip، 27 أكتوبر 2026. عدد الصور 16، بدقة 1920×1080 وحجم أقل من 1 ميجابايت للصورة. حُفظ المحتوى كاملًا؛ أضيف امتداد ضبابي جانبي للصور غير المطابقة لنسبة الشاشة. لم يُفترض ترخيص جديد.
+المصدر: Photo 2.zip، 30 أكتوبر 2026. عدد الصور 16، بدقة 1920×1080 وحجم أقصى 346855 بايت. جرى ضبط اتجاه الصور ومقاسها وتوسيطها بنسبة الشاشة وضغطها إلى JPEG. لم يُفترض ترخيص جديد.
 
-- `344-14.jpg`
-- `347-29.jpg`
-- `491-24.jpg`
-- `721-6.jpg`
-- `866-8.jpg`
-- `abdullah-arif-Dxi6KbpvUgA-unsplash.jpg`
-- `ali-arif-soydas-uwzPks8CE3k-unsplash.jpg`
-- `alim-_xdnYkEZkF0-unsplash.jpg`
-- `dmitriy-k-Ge0XafO70As-unsplash.jpg`
-- `imad-alassiry-Vgf_yv3OBsA-unsplash.jpg`
-- `mhrezaa-nWdmDVcW9Vs-unsplash.jpg`
-- `mhrezaa-pEzz_09eXm8-unsplash.jpg`
-- `mhrezaa-v3X6VrolLqc-unsplash.jpg`
-- `mhrezaa-Ws_mFe6VxHA-unsplash.jpg`
-- `reza-ataiy-a_1f6P7wy7s-unsplash.jpg`
-- `simon-infanger-ECctP9oPtio-unsplash.jpg`
+- `religious-b3d3c6aba42c0e5b.jpg`
+- `religious-fc8c76f78371b811.jpg`
+- `religious-00dc06c0a86bbe5e.jpg`
+- `religious-08892e349a3f9971.jpg`
+- `religious-187d66723f89dabd.jpg`
+- `religious-dc6439ecda8eaf79.jpg`
+- `religious-97c60adc9c6e1493.jpg`
+- `religious-846a338e837054ad.jpg`
+- `religious-c0377975d9970714.jpg`
+- `religious-c87ff28a63f3b294.jpg`
+- `religious-b11651c6052a5495.jpg`
+- `religious-b45d31fdf9546fed.jpg`
+- `religious-7dd8399cdd67d6e0.jpg`
+- `religious-a1a83c1fb8b6d00e.jpg`
+- `religious-92d93101a03f29ee.jpg`
+- `religious-4da96b80e257c402.jpg`
